@@ -103,7 +103,7 @@ function openPopup(day){
 
     case 16: box.innerHTML+=`<h2>Jour 16</h2><p>Contenu à ajouter.</p>`; break;
 
-    case 17: box.innerHTML+=`<h2>Jour 17</h2><p>Concours des pulls de Noël le 15 décembre 🎅 ! Venez avec vos plus beaux pulls et gagnez vos chocolats 🍫 ! Nous prendrons une photo pour le vote final 📸.</p>`; break;
+    case 17: box.innerHTML+=`<h2>Jour 17</h2><p>Concours des pulls de Noël le 19 décembre 🎅 ! Venez avec vos plus beaux pulls et gagnez vos chocolats 🍫 ! Nous prendrons une photo pour le vote final 📸.</p>`; break;
     case 18: box.innerHTML+=`<h2>Jour 18</h2><p>Contenu à ajouter.</p>`; break;
 
     case 19: box.innerHTML+=`<h2>Jour 19</h2><p>Journée mondiale du pull de Noël 🎄</p>
